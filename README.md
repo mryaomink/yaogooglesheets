@@ -1,6 +1,6 @@
 # app_sample
 
-A new Flutter project.
+Belajar membuat Aplikasi Flutter Dengan MS.EXCEL
 
 ## Getting Started
 
